@@ -15,8 +15,10 @@ This Analysis hlep us to see :
 # File Description 
 
 notebook .ipynb
-librires:
-pandas 
-numpy 
-matplotlib
-seaborn
+
+
+## librires:
+- pandas 
+- numpy 
+- matplotlib
+ -seaborn
