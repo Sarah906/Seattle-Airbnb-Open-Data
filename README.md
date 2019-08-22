@@ -14,7 +14,9 @@ This Analysis hlep us to see :
 
 # File Description 
 
-notebook .ipynb
+Seattle Airbnb.ipynb	: is the python analysis file
+	calendar.csv	 , listings.csv	,reviews.cs : Airbnb datasets from Kaggle
+
 
 
 ## librires:
