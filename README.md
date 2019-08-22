@@ -22,3 +22,6 @@ notebook .ipynb
 - numpy 
 - matplotlib
  -seaborn
+
+# Medium Plog Post
+https://medium.com/@sarah.alsalman96/seattle-airbnb-data-analysis-982add28d731
